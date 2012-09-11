@@ -1,0 +1,5 @@
+E:\Email\SaleXP\SaleXPService\SaleXPService\bin\SaleXPService.dll
+E:\Email\SaleXP\SaleXPService\SaleXPService\bin\SaleXPService.pdb
+E:\Email\SaleXP\SaleXPService\SaleXPService\obj\Debug\ResolveAssemblyReference.cache
+E:\Email\SaleXP\SaleXPService\SaleXPService\obj\Debug\SaleXPService.dll
+E:\Email\SaleXP\SaleXPService\SaleXPService\obj\Debug\SaleXPService.pdb
